@@ -1,4 +1,4 @@
-##  👁‍🗨
+
 ![gif animado](./assets/5f085809f2b711643e4eb4974cc03c0e.gif)
 <!--
 **qu33nG4mb1t/qu33nG4mb1t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
